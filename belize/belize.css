@@ -1,0 +1,23 @@
+/* 
+* Annie McTaggart
+* Due Date
+* Project Name and Description
+*/
+
+*/ The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body { font-size: 20; width: 800px; background-color: wheat; float: center;}
+/* info for images */
+#belizebluehole { height: 200 px; width: 400px;}
+#belizezooentrance { height: 400px; width: 500px;}
+#caracol { height: 300px; width: 600px;}
+#caye { height: 320px; width: 550px}
+table, td, th{border: 3px solid black; border-collapse: collapse;} 
+tbody { background-color: chartreuse; }
+thead { background-color: cornflowerblue; }
